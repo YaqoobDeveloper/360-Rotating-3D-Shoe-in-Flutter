@@ -1,17 +1,18 @@
 # 360° Rotating 3D Shoe in Flutter 👟🔥
 
-A modern **360° rotating 3D shoe animation UI** built with Flutter.
-This project demonstrates an interactive product showcase where users can rotate a shoe and view it from different angles.
+A modern **360° rotating 3D shoe UI** built with Flutter. This project demonstrates an interactive product showcase where users can rotate a shoe and view it from different angles.
 
-## 🚀 Demo
+## 🚀 Demo & Project
 
-▶️ **YouTube:** https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+▶️ **Watch on YouTube:** [YouTube Demo](https://www.youtube.com/@YaqoobDeveloper)
 
-🌐 **Project Details:** https://www.yaqoobdeveloper.com/projects/360-rotating-3d-shoe-flutter
+🌐 **View Project:** [yaqoobdeveloper.com/projects/360-rotating-3d-shoe-flutter](https://www.yaqoobdeveloper.com/projects/360-rotating-3d-shoe-flutter)
+
+💻 **GitHub Repository:** [360 Rotating 3D Shoe in Flutter](https://github.com/YaqoobDeveloper/360-Rotating-3D-Shoe-in-Flutter)
 
 ## 📸 Preview
 
-<img width="805" height="828" alt="360° Rotating 3D Shoe Flutter UI" src="https://github.com/user-attachments/assets/2faf1322-73b1-4499-b935-b8db37fd01db" />
+<img width="805" height="828" alt="360° Rotating 3D Shoe in Flutter" src="https://github.com/user-attachments/assets/2faf1322-73b1-4499-b935-b8db37fd01db" />
 
 ## ✨ Features
 
@@ -20,7 +21,7 @@ This project demonstrates an interactive product showcase where users can rotate
 * 🎨 Modern and clean UI
 * 📱 Responsive Flutter design
 * ⚡ Smooth animations
-* 🛍️ Perfect for e-commerce/product showcase apps
+* 🛍️ E-commerce product showcase concept
 
 ## 🛠️ Built With
 
@@ -31,7 +32,7 @@ This project demonstrates an interactive product showcase where users can rotate
 
 * Flutter **3.47.2** or compatible version
 * Dart SDK included with Flutter
-* Android Studio / VS Code
+* Android Studio or VS Code
 * Xcode for iOS development
 
 ## 📂 Getting Started
@@ -39,13 +40,13 @@ This project demonstrates an interactive product showcase where users can rotate
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/YaqoobDeveloper/360-Rotating-3D-Shoe-in-Flutter.git
 ```
 
 ### 2. Navigate to the project
 
 ```bash
-cd rotating_3d_shoe__360
+cd 360-Rotating-3D-Shoe-in-Flutter
 ```
 
 ### 3. Install dependencies
@@ -62,7 +63,7 @@ flutter run
 
 ## 📚 Flutter Resources
 
-If you're new to Flutter, check out:
+If you're new to Flutter, check out these resources:
 
 * [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
 * [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
@@ -70,9 +71,12 @@ If you're new to Flutter, check out:
 
 ## 👨‍💻 Created By
 
-**Yaqoob Developer**
+### Yaqoob Developer
 
 Flutter Developer & YouTuber
 
-🌐 Website: https://www.yaqoobdeveloper.com
-▶️ YouTube: https://www.youtube.com/@YaqoobDeveloper
+🌐 **Website:** [yaqoobdeveloper.com](https://www.yaqoobdeveloper.com)
+
+▶️ **YouTube:** [@YaqoobDeveloper](https://www.youtube.com/@YaqoobDeveloper)
+
+⭐ If you find this project useful, consider giving the repository a **star**!
